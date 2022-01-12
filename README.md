@@ -1,4 +1,4 @@
-# OpenNMTpy-TF-keraspy
+# OpenNMT-TF-keras-py
 
 RNN or Transformer, OpenNMT (OpenSource): https://github.com/OpenNMT/OpenNMT-py
 
